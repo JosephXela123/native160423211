@@ -15,6 +15,5 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
         //        comment 1
-        //        comment 2
     }
 }
