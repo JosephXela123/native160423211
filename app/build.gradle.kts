@@ -7,6 +7,10 @@ android {
     namespace = "com.ubayadev.testgit"
     compileSdk = 36
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.ubayadev.testgit"
         minSdk = 25
